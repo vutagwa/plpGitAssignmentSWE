@@ -1,4 +1,3 @@
-README
 # About Me
 Hello! 👋 I'm Marion vutagwa, currently pursuing studies in Software Engineering at PLP May Corhot on scholarship and Computer Science at Kiriri University in Kenya. I'm passionate about cyber security and software development.
 
